@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
                 center: Alignment.topLeft,
                 radius: 1.0,
                 colors: [
-                  Colors.white,
+                  Colors.white, //color change
                   Color(0xff5debd7),
                   Colors.white,
                 ],
