@@ -16,16 +16,16 @@ Memo App is a cross-platform mobile application built using Flutter and Dart for
 ##### Express.js: For creating RESTful APIs.
 ##### JWT (JSON Web Tokens): For secure user authentication.
 ### Project Structure
-Frontend (Flutter & Dart)
-lib/: Contains the core Flutter code for the app.
-screens/: All the app screens (Home, Login, Memo, etc.)
-widgets/: Reusable UI components.
-models/: Data models for memo structure.
-services/: Services for handling API calls to the backend.
-Backend (Node.js & MongoDB)
-routes/: API endpoints for handling requests (e.g., memo creation, user authentication).
-models/: MongoDB models for users and memos.
-controllers/: Logic for processing requests and interacting with the database.
+##### Frontend (Flutter & Dart)
+##### lib/: Contains the core Flutter code for the app.
+##### screens/: All the app screens (Home, Login, Memo, etc.)
+##### widgets/: Reusable UI components.
+##### models/: Data models for memo structure.
+##### services/: Services for handling API calls to the backend.
+##### Backend (Node.js & MongoDB)
+##### routes/: API endpoints for handling requests (e.g., memo creation, user authentication).
+##### models/: MongoDB models for users and memos.
+##### controllers/: Logic for processing requests and interacting with the database.
 ### Installation
 #### Prerequisites
 ##### Flutter SDK: Install Flutter
